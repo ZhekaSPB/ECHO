@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cc66d5pptm8e3m2x?svg=true)](https://ci.appveyor.com/project/ZhekaSPB/echo)
+[![Build status](https://ci.appveyor.com/api/projects/status/735mva1p6pow8hvn?svg=true)](https://ci.appveyor.com/project/ZhekaSPB/echo-8xh44)
